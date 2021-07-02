@@ -1,6 +1,6 @@
 # beginner-blackjack-python
 
-#Basics
+# Basics
 You must try to get your cards as close to 21 as possible, without going over 21. 
 You win if your cards are equal to or below 21, but more than the dealer.
 
@@ -19,7 +19,7 @@ You will get 2:1 pay out. Meaning if you bet $100 and win, you will get $200 bac
 If you get a blackjack, the pay out will be 1.5:1
 You get your money back if you draw with the dealer
 
-#Specific Rules
+# Specific Rules
 6 card charlie is implemented (automatically win if you have 6 cards without
 busting (going over 21)). Insurance (betting on dealer w/ ace) and spliting is not 
 allowed.
